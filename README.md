@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frederik Gebhardt</h1>
 <h3 align="center">A passionate ML Engineer from Berlin / Germany</h3>
 
-- 🔭 I’m currently working on [White blood cell detection](https://github.com/fgeb/leuk-detect)
-
-- 🌱 I’m currently learning **Using transformer to transcribe guitar recordings**
-
 - 👨‍💻 All of my projects are available at [https://troopl.com/fgeb](https://troopl.com/fgeb)
 
 - 📫 How to reach me **frederik.gebhardt@posteo.de**
